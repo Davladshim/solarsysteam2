@@ -1,0 +1,11 @@
+Model Information:
+* title:	Solarsysteam2
+* source:	https://sketchfab.com/3d-models/solarsysteam2-04183a7bac144552a0dedd401457c8cb
+* author:	davlad.shim (https://sketchfab.com/davlad.shim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Solarsysteam2" (https://sketchfab.com/3d-models/solarsysteam2-04183a7bac144552a0dedd401457c8cb) by davlad.shim (https://sketchfab.com/davlad.shim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
